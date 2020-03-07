@@ -1,0 +1,62 @@
+User ID,Eligible for Prize,First Name (1st author),Last Name (1st author),Country (1st author),Team Members,Affiliation Type,Student,Affiliation,Type of Method,GitHub,Rank - Point Forecasts,Rank - Prediction Intervals
+118,Y,Slawek,Smyl,United States,"Smyl, S.",Company-Organization,N,Uber Technologies,Hybrid,slaweks17 ,1,1
+245,Y,Pablo,Montero-Manso,Spain,"Montero-Manso, P., Talagala, T., Hyndman, R. J. & Athanasopoulos, G.",University,Y,University of A Coruña & Monash University,Combination (S & ML),pmontman,2,2
+237,Y,Maciej,Pawlikowski,Poland,"Pawlikowski, M., Chorowska, A. & Yanchuk, O.",Company-Organization,N,ProLogistica Soft,Combination (S),prologistica,3,#N/A
+72,Y,Srihari,Jaganathan,United States,"Jaganathan, S. & Prakash, P.",Individual,N,Individual,Combination (S & ML),forecaster18,4,#N/A
+69,Y,Jose Augusto,Fiorucci,Brazil,"Fiorucci, J. A. & Louzada, F.",University,N,University of Brasilia & University of São Paulo,Combination (S),jafiorucci,5,5
+36,Y,Fotios,Petropoulos,United Kingdom,"Petropoulos, F. & Svetunkov, I.",University,N,University of Bath & Lancaster University,Combination (S),fotpetr,6,6
+78,Y,David,Shaub,United States,"Shaub, D.",University,Y,Harvard Extension School,Combination (S),dashaub,7,#N/A
+260,Y,Legaki,Nikoletta Zampeta,Greece,Legaki N. Z. & Koutsouri K.,University,Y,National Technical University of Athens,Statistical,KaterinaKou,8,#N/A
+238,Y,Jurgen,Doornik,United Kingdom,"Doornik, J., Hendry, D. & Castle, J.",University,N,University of Oxford,Combination (S),doornik,9,3
+39,Y,Diego J.,Pedregal,Spain,"Pedregal, D.J., Trapero, J. R., Villegas, M. A. & Madrigal, J. J.",University,N,University of Castilla-La Mancha,Combination (S),djpt999,10,#N/A
+5,N,Evangelos,Spiliotis,Greece,"Spiliotis, E. & Assimakopoulos, V.",University,N,National Technical University of Athens,Statistical,vangspiliot,11,#N/A
+132,Y,Alexandre,Roubinchtein,United States,"Roubinchtein, A.",Company-Organization,N,Washington State Employment Security Department,Combination (S),roubinchtein,12,7
+251,Y,Michael,Ibrahim,United States,"Ibrahim, M.",University,Y,Georgia Institute of Technology,Statistical,MichaelIbrahim-GaTech,13,10
+250,Y,Meelis,Kull,Estonia,Tartu M4 seminar,University,Y,University of Tartu,Combination (S & ML),meeliskull,14,#N/A
+243,Y,Waddah,Waheeb,Malaysia,"Waheeb, W.",University,Y,Universiti Tun Hussein Onn Malaysia,Combination (S),Waddah-Waheeb,15,#N/A
+235,Y,Sarah,Darin,United States,"Darin, S. & Stellwagen, E.",Company-Organization,N,Business Forecast Systems (Forecast Pro),Statistical,sdarin,16,#N/A
+104,Y,Tiago,Dantas,Brazil,"Dantas, T. & Cyrino Oliveira, F.",University,Y,Pontifical Catholic University of Rio de Janeiro,Combination (S),tiagomendesdantas,17,#N/A
+223,Y,Arsa,Nikzad,Canada,"Nikzad, A.",Individual,N,Individual,Combination (S & ML),Arsa-Nik,20,#N/A
+239,Y,José-Vicente,Segura-Heras,Spain,"Segura-Heras, J. V., Vercher-González, E., Bermúdez-Edo, J. D., & Corberán-Vallet, A.",University,N,Universidad Miguel Hernández & Universitat de Valencia,Combination (S),Siopred,22,14
+211,Y,Belinda,Trotta,Australia,"Trotta, B.",Individual,N,Individual,Machine Learning,btrotta,23,16
+231,Y,Wei,Chen,United States,"Chen, W. & Francis, J.",University,Y,Fordham University,Combination (S),,24,#N/A
+227,N,Ivan,Svetunkov,United Kingdom,"Svetunkov, I., Abolghasemi, M. & Kourentzes, N.",University,N,Lancaster University & University of Newcastle,Combination (S),config-i1,25,18
+82,Y,Thiyanga,Talagala,Australia,"Talagala, T., Hyndman, R. J. & Athanasopoulos, G.",University,Y,Monash University,Statistical,thiyangt,26,8
+212,Y,Meng,Sui,United States,"Sui, M. & Rengifo, E.",University,Y,Fordham University,Combination (S),,27,#N/A
+236,Y,Sepideh,Kharaghani,Canada,"Kharaghani, S.",Individual,N,Individual,Combination (S),,28,#N/A
+248,Y,Venika,Wadhwa,United Kingdom,Smart Forecast,Company-Organization,N,Smart Cube (Smart Forecast),Combination (S),SmartForecast,29,#N/A
+30,Y,Eric,Wainwright,United States,"Wainwright, E., Butz E. & Raychaudhuri, S.",Company-Organization,N,Oracle Corporation (Crystal Ball),Statistical,,30,13
+234,Y,Rafael,Valle dos Santos,Brazil,"Valle dos Santos, R., Araújo, C. & Accioly, R.",Individual,N,Individual,Combination (S),,33,#N/A
+24,Y,Thomas,Reilly,United States,"Reilly, T.",Company-Organization,N,"Automatic Forecasting Systems, Inc. (AutoBox)",Statistical,,34,12
+218,Y,Azhar,Iqbal,United States,"Iqbal, A., Seery, S. & Silvia, J.",Company-Organization,N,Wells Fargo Securities,Statistical,shannonseery,36,11
+106,Y,Remo,Fritschi,Switzerland,"Fritschi, R.",Individual,N,Individual,Statistical,fritschi87,37,#N/A
+43,Y,Gianluca,Bontempi,Belgium,"Bontempi, G.",University,N,Université Libre de Bruxelles,Combination (S & ML),gbonte,38,#N/A
+216,Y,Kasun,Bandara,Australia,"Bandara, K., Bergmeir, C. & Hewamalage, C.",University,Y,Monash University,Combination (S & ML),kasungayan,40,#N/A
+169,Y,Alexandros,Patelis,Greece,"Patelis, A.",Individual,N,Individual,Combination (S),apatelis,42,#N/A
+241,Y,Ioannis,Kyriakides,Cyprus,"Kyriakides, I. & Artusi, A.",University,N,University of Nicosia,Combination (ML),,43,#N/A
+191,Y,Fred,Viole,United States,"Viole, F. & Vinod, H.",University,Y,Fordham University,Combination (S & ML),,44,#N/A
+126,Y,Konstantin,Chirikhin,Russian Federation,"Chirikhin, K. & Ryabko, B.",University,Y,Novosibirsk State University,Combination (S),kchirikhin ,45,#N/A
+244,Y,Jose Gilmar,Alves Santos Junior,Brazil,"Alves Santos Junior, J. G.",Individual,N,Individual,Machine Learning,GilmarSantosJr,46,17
+70,Y,Ahmed,Mohamed,Netherlands,"Mohamed, A.",Company-Organization,N,ServiceNow,Combination (S),,47,#N/A
+249,Y,Caroline,Clark,United Kingdom,"Clark, C.",Individual,N,Individual,Statistical,,48,#N/A
+252,Y,Hanife Taylan,Selamlar,Turkey,"Selamlar, H. T.",University,N,Dokuz Eylul University,Statistical,hnftyln,49,19
+255,Y,Ali Sabri,Taylan,Turkey,"Taylan, A. S.",Company-Organization,Y,Yapı Kredi Invest,Statistical,alsabtay,50,20
+9,Y,Guckan,Yapar,Turkey,"Yapar G., Capar S. & Yavuz. I.",University,N,Dokuz Eylul University,Statistical,gyapar,51,21
+256,Y,Tugce Ekiz,Yilmaz,Turkey,"Yilmaz, T. E.",University,Y,Dokuz Eylul University,Statistical,ekiztugce  ,52,23
+253,Y,Beyza,Çetin,Turkey,"Çetin, B.",University,Y,Dokuz Eylul University,Statistical,beyzacetin,53,22
+91,Y,Somnath,Mukhopadhyay,United States,"Mukhopadhyay, S.",University,N,University of Texas,Machine Learning,smukhopadhyay,54,#N/A
+219,Y,Paweł,Pełka,Poland,"Pełka, P.",University,Y,Czestochowa University of Technology,Machine Learning,manblue0,56,#N/A
+225,Y,Grzegorz,Dudek,Poland,"Dudek, G.",University,N,Czestochowa University of Technology,Other,GMD-CUT,58,#N/A
+258,Y,Roman,Sirotin,Russian Federation,"Sirotin, R.",University,Y,Siberian State University of Telecommunications and Information Sciences,Statistical,zaquest,59,#N/A
+Naive,N,-,-,-,The M4 Team,-,N,Benchmark,Statistical,M4Competition,39,15
+sNaive,N,-,-,-,The M4 Team,-,N,Benchmark,Statistical,M4Competition,41,#N/A
+Naive2,N,-,-,-,The M4 Team,-,N,Benchmark,Statistical,M4Competition,35,#N/A
+SES,N,-,-,-,The M4 Team,-,N,Benchmark,Statistical,M4Competition,32,#N/A
+Holt,N,-,-,-,The M4 Team,-,N,Benchmark,Statistical,M4Competition,31,#N/A
+Damped,N,-,-,-,The M4 Team,-,N,Benchmark,Statistical,M4Competition,21,#N/A
+Theta,N,-,-,-,The M4 Team,-,N,Benchmark,Statistical,M4Competition,18,#N/A
+Com,N,-,-,-,The M4 Team,-,N,Benchmark,Combination (S),M4Competition,19,#N/A
+MLP,N,-,-,-,The M4 Team,-,N,Benchmark,Machine Learning,M4Competition,57,#N/A
+RNN,N,-,-,-,The M4 Team,-,N,Benchmark,Machine Learning,M4Competition,55,#N/A
+ETS,N,-,-,-,The M4 Team,-,N,Benchmark,Statistical,M4Competition,#N/A,4
+ARIMA,N,-,-,-,The M4 Team,-,N,Benchmark,Statistical,M4Competition,#N/A,9
