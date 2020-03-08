@@ -107,7 +107,9 @@ Benchmarks <- function(input, fh){
   if (ppy>1){ ST <- SeasonalityTest(input,ppy) }
   if (ST==T){
     Dec <- decompose(input,type="multiplicative")
+    # deseasonalized input
     des_input <- input/Dec$seasonal
+    # season index
     SIout <- head(rep(Dec$seasonal[(length(Dec$seasonal)-ppy+1):length(Dec$seasonal)], fh), fh)
   }else{
     des_input <- input ; SIout <- rep(1, fh)
